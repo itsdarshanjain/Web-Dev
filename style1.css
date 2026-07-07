@@ -1,0 +1,28 @@
+body {
+font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color:khaki;
+}
+h1 {
+  background-color: lightcyan;
+  border: 5px double blue;
+  text-align: center;
+}
+h2 {
+  background-color: lightslategray;
+  text-align: center;
+}
+p {
+  color: #002fff;
+}
+.a {
+  border: 2px solid darkorange;
+}
+.b {
+  border: 2px solid green;
+}
+img{
+    display:flex;
+}
